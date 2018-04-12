@@ -1,0 +1,14 @@
+=== Introduction ===
+
+This folder contains Matlab scripts: WL.m, WLedge.m, and WLspdelta.m
+WL.m computes the Weisfeiler-Lehman subtree kernel
+WLedge.m computes the Weisfeiler-Lehman edge kernel
+WLspdelta.m computes the Weisfeiler-Lehman shortest path kernel (with 
+exact matching of shortest path lengths)
+on graphs with unweighted unlabeled edges, with/without node labels.
+
+=== Usage ===
+
+For each script X.m, the Matlab command
+  help X
+will display instructions on how to use the script X.m 
